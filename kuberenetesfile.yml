@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: banking-finance
-          image: godsonkaran/banking-finance-project:1.0
+          image: godsonkaran/banking-finance-project:2.0
           ports:
             - containerPort: 8081
           env:
